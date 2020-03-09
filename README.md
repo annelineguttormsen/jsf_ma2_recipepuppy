@@ -10,7 +10,7 @@ Data binding is the binding of a component to an app where data flows between th
 
 **What does array.map() do?**
 
-The array.map()-method takes an array and makes a new array. It uses a callback function to go through every index of the old array and determines whether the value of that index should make it to the new array.
+The array.map()-method takes an array and makes a new array. It uses a callback function to go through every index of the old array and uses the callback function to make a value to push into the new array.
 
 **What are props?**
 
